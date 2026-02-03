@@ -1,4 +1,4 @@
-Standalone Arduino Mega MIDI controller with midi over usb made by Teta
+Standalone full plug&play Arduino Mega MIDI controller with midi over usb made by Teta
 
 How to:
 
@@ -21,4 +21,5 @@ The sketch is editable and you can edit as much as you want defining new digital
 For standard i just put 4 potentiometers into A0, A1, A2, A3
 
 i was wondering to buy some multiplexers to increase the number of analog inputs for arduino mega from 16 to 64
+
 
